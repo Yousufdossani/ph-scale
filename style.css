@@ -1,0 +1,65 @@
+
+h1{
+
+    text-align: center;
+    color: rgb(47, 3, 3);
+    
+}
+.a{
+    background-color: blue;
+}
+.b{
+    background-color: rgb(101, 101, 253);
+}
+.c{
+    background-color: rgb(144, 144, 249);
+}
+.d{
+    background-color: rgb(154, 154, 231);
+}
+.e{
+    background-color: rgb(169, 169, 232);
+}
+.f{
+    background-color: rgb(128, 128, 255);
+}
+.g{
+    background-color: rgb(191, 191, 235);
+}
+.h{
+    background-color: rgb(145, 145, 199);
+}
+.i{
+    background-color: rgb(57, 215, 57);
+}
+.j{
+    background-color: rgb(250, 181, 193)
+    ;
+}
+.k{
+    background-color: rgb(253, 141, 160)
+   ;
+}
+.l{
+    background-color: rgb(249, 109, 132)
+    ;
+}
+.m{
+    background-color: rgb(250, 79, 107)
+    ;
+}
+.n{
+    background-color: rgb(247, 74, 103)
+    ;
+}
+.o{
+    background-color: rgb(251, 61, 93)
+    ;
+}
+.p{
+    background-color: rgb(252, 56, 89)
+    ;
+}
+.q{
+    background-color: rgb(253, 4, 4);
+}
